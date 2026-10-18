@@ -14,5 +14,7 @@
 window.SITE_CONFIG = {
   WEB3FORMS_ACCESS_KEY: "fd6c8afb-19d6-4fdf-bddb-f76bb7d6ab31",
   GOOGLE_ANALYTICS_ID: "",
+  AUCTION_API: "",
+  AUCTION_ID: "yellowstonenationalpark.net",
   SITE_NAME: "YellowstoneNationalPark.net"
 };
