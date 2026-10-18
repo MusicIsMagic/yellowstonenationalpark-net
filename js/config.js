@@ -12,7 +12,7 @@
      Leave it empty to run with no analytics.
 */
 window.SITE_CONFIG = {
-  WEB3FORMS_ACCESS_KEY: "PASTE_YOUR_WEB3FORMS_KEY_HERE",
+  WEB3FORMS_ACCESS_KEY: "fd6c8afb-19d6-4fdf-bddb-f76bb7d6ab31",
   GOOGLE_ANALYTICS_ID: "",
   SITE_NAME: "YellowstoneNationalPark.net"
 };
